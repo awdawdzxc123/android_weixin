@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">android_weixin</string>
+    <string name="textview">TextView</string>
+    <string name="Todo">todo</string>
+    <string name="fruitTime">TextView</string>
+    <string name="TextView1">TextView</string>
+    <string name="textview2">TextView</string>
+    <string name="textview3">TextView</string>
+    <string name="我的">wode</string>
+    <string name="发现">fax</string>
+    <string name="微信">weixin</string>
+    <string name="通讯录">tongxlu</string>
+    <string name="weixinxia">微信</string>
+    <string name="tongxluxia">通讯录</string>
+    <string name="faxxia">发现</string>
+    <string name="wodexia">我的</string>
+    <string name="加">jia</string>
+    <string name="框">kuang</string>
+    <string name="winxinshang">微信(15)</string>
+</resources>
